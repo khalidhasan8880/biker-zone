@@ -1,0 +1,21 @@
+.wrap-revers{
+    flex-wrap: wrap-reverse;
+}
+.star-icon{
+    width: 20px;
+    
+}
+.faq-img-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-flex{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.get-app-playstor{
+    width: 200px;
+}
